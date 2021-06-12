@@ -1,4 +1,19 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
 .header {
-  background: #F0F4C3;
+  background: #E91E63;
   height: 48px;
+  color: white;
+}
+
+.container {
+  background: #FFFDE7;
+  padding: 40px 30px;
+}
+
+.container > img {
+  height: 150px;
 }
